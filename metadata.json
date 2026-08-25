@@ -1,0 +1,6 @@
+{
+  "name": "Türk Maç Rehberi",
+  "description": "Türk takımlarının ve ilgili maçların önümüzdeki günlerdeki fikstür, yayıncı ve saat bilgilerini sunan maç rehberi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
